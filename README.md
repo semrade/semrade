@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @semrade
+- 👋 Hi, I’m @ Tarik SEMRADE
 - 👀 I’m interested in Embedded Sytems engineering
 - 💞️ I’m looking to collaborate on Embedded systems and C/C++ dev
 - 📫 How to reach me  -----> tarik-semrade@embedded-semrade.com
